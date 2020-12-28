@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CertificatePinnerApplication</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Hostname</string>
+    <string name="prompt_password">Certificate Public Key</string>
+    <string name="action_sign_in">Connect to host</string>
+    <string name="action_sign_in_short">Connect to host</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid host</string>
+    <string name="invalid_password">Please enter SHA Public key for </string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
